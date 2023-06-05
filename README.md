@@ -23,7 +23,7 @@ This website seeks to connect you with open source, free software, and tech-rela
 - Firebase
 
 ## 💻Engaging in the Project
-### 🔸<u> Prerequisite </u>
+### 🔶Prerequisites 
 To run the project locally on your sysmtem , the following softwares must be installed .
 - Npm 8.x
 - Node 16.x 
@@ -34,7 +34,7 @@ You can check your node and npm versions by typing the mentioned commands in the
 node -v
 npm -v
 ```
-### 🔸Project Initialization
+### 🔶Project Initialization
 1. Fork this repository which will create a copy of this project in your GitHub account.
 2. Clone the forked repository. Steps to clone :-
 
@@ -76,6 +76,8 @@ npm -v
    - Select the original repository and the branch you want to merge into. 
    - Provide a clear title and description for your pull request . 
 
+## License
+The Programming Club, IIITDM Jabalpur
 
-### Customize configuration
+## Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
