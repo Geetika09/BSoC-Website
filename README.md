@@ -14,12 +14,9 @@ This website seeks to connect you with open source, free software, and tech-rela
 - Contains FAQs to resolve your queries
 
 ## ⚙️Tech Stack
-### Frontend:
 - HTML5 
 - CSS
-- ReactJS
-- VUE
-### Backend:
+- VueJs
 - Firebase
 
 ## 💻Engaging in the Project
@@ -39,16 +36,17 @@ npm -v
 2. Clone the forked repository. Steps to clone :-
 
      - On your forked repository page, click on the "Code" button and copy the repository's URL.
-     - Open your terminal, navigate to the desired directory.      
-     
-         ```bash
-          cd BSoC-Website
-         ```
+    
                         
      - Use the git clone command followed by the repository URL to clone the repository to your local machine. 
          ```bash
          git clone https://github.com/<your_username>/BSoC-Website.git
         ```
+      - Open your terminal, navigate to the desired directory.      
+     
+         ```bash
+          cd BSoC-Website
+         ```
 3.  Create a new branch by switching to the cloned repository's directory in your terminal.   
      ```bash
       git checkout -b <branch-name>
